@@ -1,5 +1,5 @@
 import os
-print('exe化するpyファイルのフルパスを入力')
+print('exe化するpyファイルのフルパスを入力 or D&D')
 pyPath = input('>>')
 print('追加のオプションを選択')
 print('[1] 黒い画面を出さない')
